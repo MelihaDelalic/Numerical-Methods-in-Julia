@@ -1,0 +1,16 @@
+# Project.toml
+
+[project]
+name = "MatrixOperationsModule"
+uuid = "bb29d06c-e580-4718-9162-64d35f37bd6c"  # Replace with your UUID
+version = "0.1.0"
+
+[authors]
+"Meliha Delalic <delalicm14@email.com>"
+
+[dependencies]
+# List dependencies if your module depends on other packages
+# Example:
+# LinearAlgebra = "1.3"
+
+
