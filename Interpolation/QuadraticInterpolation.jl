@@ -1,4 +1,5 @@
 using Plots
+
 function Gauss_Jordan(A::Matrix, b::Vector)
     A = copy(A)
     b = copy(b)
@@ -67,4 +68,4 @@ point1 = g(2.0)
 x = -1:1:5
 plot(x, g, title = "Interpolation of the polynomial", xlabel="x", ylabel="g(x)")
 scatter!(X, Y, label="Data Points", color=:red, marker=:circle, markersize=5)
-scatter!(2.0, point1)
+savefig("Quadratic Interpolation.png")
