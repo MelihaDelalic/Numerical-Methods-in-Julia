@@ -1,4 +1,4 @@
-# Numerical Methods in Julia 
+# Numerical Methods in Julia 🤍💻
 
 In this repository I demonstrate various numerical methods implemented in the Julia programming language.
 ### Main Categories:
@@ -24,7 +24,7 @@ In this repository I demonstrate various numerical methods implemented in the Ju
 - Numerical methods are implemented and demonstrated with examples.
 - Resulting plots for visualization are included to help understand the methods better.
   
-### Installation:
+### Installation: 🚀
 To use the code, you can simply clone this repository and ensure you have the necessary dependencies in your Julia environment.
 
 
